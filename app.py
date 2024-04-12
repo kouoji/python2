@@ -7,10 +7,11 @@ def finalizar_app():
 def escolher_opcoes():
     print("Programa Expresso")
     print("*****************")
-    print("1 - Cadastrar restaurante")
-    print("2 - Listar restaurante")
-    print("3 - Ativar restaurante")
-    print("4 - Sair\n")
+    print("1 - Cadastrar restaurante\n")
+    print("2 - Listar restaurante\n")
+    print("3 - Ativar restaurante\n")
+    print("4 - Sair do program\n")
+
 
 def chamar_nome_do_app():
     print("Restaurante Expressao\n")
